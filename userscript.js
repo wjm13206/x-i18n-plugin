@@ -4,6 +4,7 @@
 // @version             1.0
 // @description         Twitter (X) 中文汉化插件
 // @author              k1995
+// @author              wjm13206
 // @match               https://twitter.com/*
 // @match               https://x.com/*
 // @grant               GM_getResourceText
