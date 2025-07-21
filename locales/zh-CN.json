@@ -10,12 +10,12 @@
       //   "if key === '!html' replace target by: $(selector).html(replacement)",
       //   "else: $(selector).attr(key, replacement)"
       // ],
-      "key": "!html",
-      "selector": "a[aria-label='Pull requests you created']",
-      "replacement": "拉取请求"
-    }
-  ]
-}
+      //"key": "!html",
+      //"selector": "a[aria-label='Pull requests you created']",
+      //"replacement": "拉取请求"
+    //}
+  //]
+//}
 
 
  {
